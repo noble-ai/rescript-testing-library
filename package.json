@@ -23,7 +23,7 @@
   "license": "MIT",
   "private": false,
   "dependencies": {
-    "@nobleai/rescript-prelude": "^0.12.0",
+    "@nobleai/rescript-prelude": "^0.13.3",
     "rescript": "^10.1",
     "@rescript/react": "^0.11.0",
     "rescript-webapi": "^0.2.0"
